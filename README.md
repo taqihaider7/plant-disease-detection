@@ -1,1 +1,1 @@
-# plant-disease-detection
+# Plant-disease-detection-with-Transformers
